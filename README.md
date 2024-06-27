@@ -9,7 +9,7 @@ Antivirus is a desktop application built using Python's Tkinter library. This ap
 
 **Ensure that the file paths used in the scripts match the structure and locations on your system.**
 
-**Features**
+# Features
 `File Scanning`: Scan executable files for malware.
 
 `Image Scanning`: Scan images (PNG, JPG, JPEG, GIF) for malware.
