@@ -3,6 +3,11 @@
 **Description**
 Antivirus is a desktop application built using Python's Tkinter library. This application provides a user interface to scan files, images, executables, PDFs, and URLs for malware. It integrates with VirusTotal and YARA to perform scans and display results.
 
+**Download and place your VirusTotal API key:** Replace '**YOUR_API_KEY_HERE'** in the script with your actual VirusTotal API key.
+
+# Change file paths according to your system:
+
+**Ensure that the file paths used in the scripts match the structure and locations on your system.**
 
 **Features**
 `File Scanning`: Scan executable files for malware.
