@@ -12,7 +12,7 @@ from reportlab.platypus import PageBreak
 import time
 import subprocess
 
-api_key = '5b3860f88ce54fca6b8751e57ad817c08c2c98bd0e8b8be3e3988670a1b5bd87'  # Replace with your VirusTotal API key
+api_key = 'replace_with_your_api_key'  # Replace with your VirusTotal API key
 
 def show_info_popup(title, message):
     messagebox.showinfo(title, message)
