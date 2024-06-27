@@ -10,7 +10,7 @@ import subprocess
 import time 
 
 # Replace with your own VirusTotal API key
-api_key = '5b3860f88ce54fca6b8751e57ad817c08c2c98bd0e8b8be3e3988670a1b5bd87'
+api_key = 'replace_with_your_api'
 
 class PDF(FPDF):
     def __init__(self):
